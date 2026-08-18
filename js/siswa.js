@@ -42,14 +42,13 @@
     { no: 26, name: "Liony Yori Sati Nababan", gender: "P" },
     { no: 27, name: "Muhammad Fikran Aulia", gender: "L" },
     { no: 28, name: "Muhammad Jabbar Falah", gender: "L" },
-    { no: 29, name: "Muhammad Nazril", gender: "L" },
-    { no: 30, name: "Muhammad Noval Ardan", gender: "L" },
-    { no: 31, name: "Muhammad Ramadhan", gender: "L" },
-    { no: 32, name: "Revalina Rahmadania", gender: "P" },
-    { no: 33, name: "Revan Syahputra", gender: "L" },
-    { no: 34, name: "Rivay Ananda Pratama", gender: "L" },
-    { no: 35, name: "Rizki Arrasyid", gender: "P" },
-    { no: 36, name: "Samara Safa Kholilah", gender: "P" },
+    { no: 29, name: "Muhammad Noval Ardan", gender: "L" },
+    { no: 30, name: "Muhammad Ramadhan", gender: "L" },
+    { no: 31, name: "Revalina Rahmadania", gender: "P" },
+    { no: 32, name: "Revan Syahputra", gender: "L" },
+    { no: 33, name: "Rivay Ananda Pratama", gender: "L" },
+    { no: 34, name: "Rizki Arrasyid", gender: "P" },
+    { no: 35, name: "Samara Safa Kholilah", gender: "P" },
   ];
 
   const searchInput = document.querySelector("[data-siswa-search]");
